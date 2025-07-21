@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/dentistfrankchen-github-blue?logo=github)](https://github.com/dentistfrankchen)
+[![Ke Chen](https://img.shields.io/badge/dentistfrankchen-github-blue?logo=github)](https://github.com/dentistfrankchen)
 
 He is currently a Fellow in the Department of Orthodontics at Harvard University.
 
